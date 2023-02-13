@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "Simple -unofficial- additions to the rust standard library, via a quickly typeable name."
-# repository = "https://github.com/rust-lang/cargo/"
+repository = "https://github.com/colbyn"
 # readme = "README.md"
 keywords = ["std"]
 
